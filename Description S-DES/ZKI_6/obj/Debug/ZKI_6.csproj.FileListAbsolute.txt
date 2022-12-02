@@ -1,0 +1,8 @@
+C:\Users\Fokstal\Desktop\Kirillka workaet\ZKI_6\ZKI_6\bin\Debug\ZKI_6.exe.config
+C:\Users\Fokstal\Desktop\Kirillka workaet\ZKI_6\ZKI_6\bin\Debug\ZKI_6.exe
+C:\Users\Fokstal\Desktop\Kirillka workaet\ZKI_6\ZKI_6\bin\Debug\ZKI_6.pdb
+C:\Users\Fokstal\Desktop\Kirillka workaet\ZKI_6\ZKI_6\obj\Debug\ZKI_6.csproj.AssemblyReference.cache
+C:\Users\Fokstal\Desktop\Kirillka workaet\ZKI_6\ZKI_6\obj\Debug\ZKI_6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fokstal\Desktop\Kirillka workaet\ZKI_6\ZKI_6\obj\Debug\ZKI_6.csproj.CoreCompileInputs.cache
+C:\Users\Fokstal\Desktop\Kirillka workaet\ZKI_6\ZKI_6\obj\Debug\ZKI_6.exe
+C:\Users\Fokstal\Desktop\Kirillka workaet\ZKI_6\ZKI_6\obj\Debug\ZKI_6.pdb
